@@ -61,7 +61,7 @@ event manager applet makeloop
  action 4.0 cli command "end"
  end
 
-event manager run CreateLoopbacks
+event manager run makeloop
 
 removing loopbacks:
 config t
